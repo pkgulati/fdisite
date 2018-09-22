@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+elecronics{
+	table-layout: auto;
+}
+#main{
+	width: 1000px;
+	margin: 0 auto;
+}
+#elec-container{
+	
+	width: 700px;
+    height: 300px;
+	table-layout: inherit;
+}
+#furn-container{
+	
+	width: 700px;
+    height: 300px;
+	table-layout: inherit;
+}
+
+
